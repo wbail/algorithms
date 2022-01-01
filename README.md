@@ -11,3 +11,4 @@
 ### Leetcode
 
 - https://leetcode.com/problems/concatenation-of-array/
+- https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
