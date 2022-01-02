@@ -8,6 +8,14 @@
 - Reverse a list
 - Largest number
 
+### Linked List
+
+- Insert a node in the end
+- Insert a node in the beginning
+- Insert a node after a specific node
+- Delete a node
+- Print the list
+
 ### Leetcode
 
 - https://leetcode.com/problems/concatenation-of-array/
