@@ -24,3 +24,4 @@
 - https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 - https://leetcode.com/problems/middle-of-the-linked-list/
 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- https://leetcode.com/problems/remove-linked-list-elements/
