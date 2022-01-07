@@ -26,3 +26,4 @@
 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - https://leetcode.com/problems/remove-linked-list-elements/
 - https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+- https://leetcode.com/problems/delete-node-in-a-linked-list/
