@@ -28,3 +28,4 @@
 - https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 - https://leetcode.com/problems/delete-node-in-a-linked-list/
 - https://leetcode.com/problems/palindrome-number/
+- https://leetcode.com/problems/richest-customer-wealth/
