@@ -29,3 +29,4 @@
 - https://leetcode.com/problems/delete-node-in-a-linked-list/
 - https://leetcode.com/problems/palindrome-number/
 - https://leetcode.com/problems/richest-customer-wealth/
+- https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
