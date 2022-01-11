@@ -30,3 +30,4 @@
 - https://leetcode.com/problems/palindrome-number/
 - https://leetcode.com/problems/richest-customer-wealth/
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+- https://leetcode.com/problems/number-of-good-pairs/
