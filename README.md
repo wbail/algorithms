@@ -33,3 +33,4 @@
 - https://leetcode.com/problems/number-of-good-pairs/
 - https://leetcode.com/problems/decompress-run-length-encoded-list/
 - https://leetcode.com/problems/smallest-index-with-equal-value/
+- https://leetcode.com/problems/single-number/
