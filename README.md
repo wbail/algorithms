@@ -38,3 +38,4 @@
 - https://leetcode.com/problems/matrix-diagonal-sum/
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 - https://leetcode.com/problems/count-items-matching-a-rule/
+- https://leetcode.com/problems/sum-of-unique-elements/
