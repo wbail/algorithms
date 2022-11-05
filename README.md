@@ -16,6 +16,12 @@
 - Delete a node
 - Print the list
 
+## Tree
+
+- Insert
+- Search
+- In Order
+
 ### Leetcode
 
 - https://leetcode.com/problems/concatenation-of-array/
