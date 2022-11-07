@@ -21,6 +21,7 @@
 - Insert
 - Search
 - In Order
+- Pos Order
 - Height
 
 ### Leetcode
