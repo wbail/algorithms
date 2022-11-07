@@ -5,8 +5,8 @@
 struct node
 {
     int data;
-    struct node* left = NULL;
-    struct node* right = NULL;
+    struct node* left;
+    struct node* right;
 };
 
 struct node* root;
@@ -81,6 +81,8 @@ void insert(int value)
 
     aux = new(struct node);
     aux->data = value;
+    aux->left = NULL;
+    aux->right = NULL;
 
     current = root;
 

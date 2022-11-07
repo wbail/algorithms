@@ -16,11 +16,12 @@
 - Delete a node
 - Print the list
 
-## Tree
+### Tree
 
 - Insert
 - Search
 - In Order
+- Height
 
 ### Leetcode
 
