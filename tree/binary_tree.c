@@ -15,6 +15,7 @@ struct node* root;
 void insert(int value);
 void in_order(struct node *root);
 void post_order(struct node *root);
+void pre_order(struct node *root);
 void search(int value);
 
 int main()
@@ -34,6 +35,13 @@ int main()
 
     printf("\nShow tree in Pos Order: ");
     post_order(root);
+
+    printf("\n");
+
+    printf("\nShow tree in Pre Order: ");
+    pre_order(root);
+
+    printf("\n");
 
     printf("\nLooking for the value 7:");
     search(7);
@@ -118,6 +126,18 @@ void post_order(struct node *root)
         printf("%d ", root->data);
 
         post_order(root->left);
+    }
+}
+
+void pre_order(struct node *root)
+{
+    if (root != NULL)
+    {
+        printf("%d ", root->data);
+        
+        pre_order(root->left);
+
+        pre_order(root->right);
     }
 }
 
