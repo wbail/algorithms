@@ -22,6 +22,7 @@
 - Search
 - In Order
 - Post Order
+- Pre Order
 - Height
 
 ### Leetcode
