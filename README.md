@@ -25,6 +25,10 @@
 - Pre Order
 - Height
 
+### Search
+
+- Binary Search
+
 ### Leetcode
 
 - https://leetcode.com/problems/concatenation-of-array/
