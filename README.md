@@ -25,6 +25,7 @@
 - Pre Order
 - Height
 - Count Number of Nodes
+- Sum the values of Nodes
 
 ### Search
 
