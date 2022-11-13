@@ -29,6 +29,7 @@
 ### Search
 
 - Binary Search
+- Binary Search - Find the key's index
 
 ### Leetcode
 
