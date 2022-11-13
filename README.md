@@ -24,6 +24,7 @@
 - Post Order
 - Pre Order
 - Height
+- Count Number of Nodes
 
 ### Search
 
