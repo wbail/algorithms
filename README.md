@@ -1,4 +1,4 @@
-## Algorithms using Python
+## Algorithms using C and Python
 
 ### Arrays
 
