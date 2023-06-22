@@ -3,7 +3,7 @@
 
 /*
 
-Time complexity of the function printNTermsOfFibonachiSeries(int n) is O(n)
+Time complexity of the function printNTermsOfFibonachiSeries(int n) is O(2^n)
 
 */
 
